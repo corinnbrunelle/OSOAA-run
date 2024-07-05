@@ -1,3 +1,5 @@
+Procédure de connexion:
+
 1) ouvrir Windows PowerShell
 2) Tapez la commande  « ssh votreusername@LD2052614 » et entrez ensuite votre mot de passe réseau (le même que pour une session Windows).
 Tapez « yes » lorsqu’on vous demande d’ajouter le poste à votre liste d’hôtes connus.
@@ -29,5 +31,7 @@ Informations supplémentaires :
 Bien que fonctionnel, l’outil de remote desktop n’est pas optimal et il peut parfois y avoir une latence assez importante pendant son utilisation. Il est plus facile de travailler par SSH lorsque possible.
 Vos lecteurs réseau sont « mapper » dans le /mnt/votreusername/. Faites-moi savoir si jamais il vous en manque.
 
+Documentation: https://github.com/CNES/RadiativeTransferCode-OSOAA/
 
+Dossier partagé: /home/shared/OSOAA
 
